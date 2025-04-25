@@ -61,10 +61,10 @@ Narbion is an AI-powered system designed to enhance the athlete experience by he
 ---
 
 # 🚀 How to Run
-1. Upload the dataset CSV to your Google Drive.
-2. Load and preprocess the data using the provided scripts.
-3. Train the model using Keras.
-4. Predict and sort opponents by similarity score.
+1. Upload the dataset CSV file 
+2. Load and preprocess the data using the provided scripts
+3. Train the model using Keras
+4. Predict and sort opponents by similarity score
 
 ---
 
